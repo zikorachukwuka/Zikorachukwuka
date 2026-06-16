@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Zikora Chukwuka, Software Engineer passionate about technology and problem solving,
+## Hi, I am Zikora 👋
+I am a Software Engineer who is passionate about technology and problem solving,
 
 <!--
 **zikorachukwuka/Zikorachukwuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
