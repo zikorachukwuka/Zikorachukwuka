@@ -1,5 +1,5 @@
 ## Hi, I am Zikora 👋
-I am an AI Engineer who is passionate about technology and problem solving,
+I am an AI and Tiny ML Engineer who is passionate about deep and painful problems using technology.
 
 <!--
 **zikorachukwuka/Zikorachukwuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
