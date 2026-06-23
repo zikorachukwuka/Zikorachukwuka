@@ -7,17 +7,17 @@ I'm a software engineer who turns ambiguous, real-world problems into working pr
 ## 🛠 What I Build With
 
 **AI & LLM**
-- Anthropic (Claude), OpenRouter, Groq, Replicate — integrating LLM APIs into production apps
+- Anthropic (Claude), OpenRouter, Groq, Replicate-integrating LLM APIs into production apps
 - LiteLLM for model-agnostic orchestration
 - Local AI (Ollama etc.) for offline/edge inference
 - Claude Code (Agentic coding within VS Code)
 
 **Frontend & Fullstack**
-- Next.js — SSR, SSG, App Router, API routes
+- Next.js - SSR, SSG, App Router, API routes
 - Interactive prototypes with HTML, CSS & JavaScript (lo-fi → hi-fi)
 
 **Backend & APIs**
-- FastAPI — REST APIs, async endpoints, dependency injection
+- FastAPI -REST APIs, async endpoints, dependency injection
 
 **Deployment**
 - Vercel (frontend & edge functions)
@@ -29,10 +29,10 @@ I'm a software engineer who turns ambiguous, real-world problems into working pr
 
 I'm comfortable at every stage of the product lifecycle:
 
-- **Discovery** — taking a vague problem and producing clear technical requirements
-- **Design** — system architecture, data models, API contracts
-- **Execution** — shipping clean code as part of a team (PRs, reviews, CI)
-- **Iteration** — shipping fast, measuring, adjusting
+- **Discovery** -taking a vague problem and producing clear technical requirements
+- **Design** -system architecture, data models, API contracts
+- **Execution** -shipping clean code as part of a team (PRs, reviews, CI)
+- **Iteration** -shipping fast, measuring, adjusting
 
 ---
 
