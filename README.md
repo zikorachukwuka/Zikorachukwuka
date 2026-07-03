@@ -29,7 +29,7 @@ I'm particularly drawn to open source AI models and independent inference- the i
 
 **Deployment**
 - Vercel (frontend & edge functions)
-- Render (backend services & workers)
+- Railway (backend services & workers)
 
 ---
 
