@@ -44,7 +44,7 @@ I'm comfortable at every stage of the product lifecycle:
 
 ---
 
-## 📌 Pinned Projects (Coming Soon)
+## 📌 Pinned Projects 
 
 Check the pinned repos below for examples of production-grade AI tooling, fullstack apps, and prototypes.
 
