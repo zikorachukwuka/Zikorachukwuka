@@ -1,4 +1,4 @@
-# Gitbook — My Personal Git Reference
+# Gitbook - My Personal Git Reference
 
 *Scan for your situation. Copy the command. Move on.*
 
