@@ -6,7 +6,7 @@ I'm particularly drawn to open source AI models and independent inference- the i
 
 ---
 
-## 🛠 What I Build With
+## What I Build With
 
 **AI & LLM**
 - Anthropic (Claude), OpenRouter, Groq, Replicate - integrating LLM APIs into production apps
@@ -33,7 +33,7 @@ I'm particularly drawn to open source AI models and independent inference- the i
 
 ---
 
-## 🧠 How I Work
+## How I Work
 
 I'm comfortable at every stage of the product lifecycle:
 
@@ -50,7 +50,7 @@ Check the pinned repos below for examples of production-grade AI tooling, fullst
 
 ---
 
-## 📬 Let's Talk
+## Let's Talk
 
 I'm open to roles where I can work on meaningful products at the intersection of AI and great UX.
 
