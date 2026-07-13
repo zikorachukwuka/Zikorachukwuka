@@ -1,6 +1,6 @@
 # Hi, I'm Zikora 👋
 
-I'm a software engineer who turns ambiguous, real-world problems into working products. I specialise in AI-powered full-stack applications, from system design through to deployment.
+A software engineer who turns ambiguous, real-world problems into working products. I specialise in AI-powered full-stack applications, from system design through to deployment.
 
 I'm particularly drawn to open source AI models and independent inference, the idea that powerful AI shouldn't require a closed API call to a single provider. I build with that philosophy in mind.
 
